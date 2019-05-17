@@ -22,6 +22,8 @@ El LNA-CSA-01 es un amplificador de RF que emplea el MMIC [GALI-39+](https://www
 
 [Aquí](pcb/) está el detalle del PCB en KiCAD.
 
+## Fotos del equipo
 
+[Aquí](sim/ADS) se pueden ver fotos del equipo.
 
 
