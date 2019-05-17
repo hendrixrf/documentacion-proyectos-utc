@@ -4,7 +4,7 @@
 > **ATENCIÓN** Potencia máxima de entrada +5dBm!!
 ## Introducción 
 
-El LNA-CSA-01 es un amplificador de RF que emplea el MMIC [GALI-39+](https://www.minicircuits.com/WebStore/dashboard.html?model=Gali-39%2B) de minicircuits. Su ganancia @ 3 GHz es de 15 dB.
+El LNA-CSA-01 es un amplificador de RF que emplea el MMIC [GALI-39+](https://www.minicircuits.com/WebStore/dashboard.html?model=Gali-39%2B) de minicircuits. Su ganancia @ 3 GHz es de 16 dB. 
 
 ## Esquemático
 
@@ -24,6 +24,6 @@ El LNA-CSA-01 es un amplificador de RF que emplea el MMIC [GALI-39+](https://www
 
 ## Fotos del equipo
 
-[Aquí](sim/ADS) se pueden ver fotos del equipo.
+[Aquí](fotos/) se pueden ver fotos del equipo.
 
 
