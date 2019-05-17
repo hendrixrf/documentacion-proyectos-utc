@@ -1,0 +1,18 @@
+
+SP SP1[1] <Amplificador_CSA_lib:borrar:schematic>   freq=(1 GHz->10 GHz)
+,,,,,,,,,,,Warning detected by hpeesofsim during SP analysis `SP1'.
+    Data in the Touchstone file `/home/pablog/work/Mediciones VNA/30-11-16 MedicionesFr4/s21-mod-fase-10mmCh1.s2p'
+    does not cover the requested value of `freq'.
+    Therefore, the required data was obtained by extrapolation.
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+Resource usage:
+    User time                 =     0.42 seconds.
+    System time               =     0.02 seconds.
+    Total CPU time            =     0.44 seconds.
+    Simulation stopwatch time =     0.08 seconds.
+    Total stopwatch time      =     0.42 seconds.
+
+    Physical memory used: 95.6 MBytes.
+    Incremental virtual memory (data only) used:  20.2 MBytes.
+

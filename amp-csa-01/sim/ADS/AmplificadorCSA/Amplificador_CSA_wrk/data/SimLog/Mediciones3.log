@@ -1,0 +1,15 @@
+
+
+TRAN Tran1[1] <Amplificador_CSA_lib:Mediciones3:schematic>   time=(0 s->100 ns)
+
+
+Resource usage:
+    User time                 =     0.28 seconds.
+    System time               =     0.04 seconds.
+    Total CPU time            =     0.32 seconds.
+    Simulation stopwatch time =     0.06 seconds.
+    Total stopwatch time      =     0.30 seconds.
+
+    Physical memory used: 91.2 MBytes.
+    Incremental virtual memory (data only) used:  17.6 MBytes.
+

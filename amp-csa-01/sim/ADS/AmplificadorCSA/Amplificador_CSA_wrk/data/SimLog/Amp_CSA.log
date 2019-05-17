@@ -1,0 +1,49 @@
+Warning detected by hpeesofsim in Substrate model during netlist flattening.
+    Conductor Thickness T >= Substrate Height H in `MSub1'.
+Warning detected by hpeesofsim in topology check during circuit set up.
+    Number of nodes with only one device attached (topology corrected): 2
+
+
+SP SP1[1] <Amplificador_CSA_lib:Amp_CSA:schematic>   freq=(10 MHz->6 GHz)
+Warning detected by hpeesofsim during SP analysis 'SP1'.
+    UserValue(0.000610) < MinRecommendValue(0.000017) OR UserValue > MaxRecommendValue(0.000511) for 'W' in `Gap4'
+
+Warning detected by hpeesofsim during SP analysis 'SP1'.
+    UserValue(0.000610) < MinRecommendValue(0.000017) OR UserValue > MaxRecommendValue(0.000511) for 'W' in `Gap3'
+
+Warning detected by hpeesofsim during SP analysis 'SP1'.
+    UserValue(0.000610) < MinRecommendValue(0.000017) OR UserValue > MaxRecommendValue(0.000511) for 'W' in `Gap2'
+
+Warning detected by hpeesofsim during SP analysis 'SP1'.
+    UserValue(0.000610) < MinRecommendValue(0.000017) OR UserValue > MaxRecommendValue(0.000511) for 'W' in `Gap5'
+
+Warning detected by hpeesofsim during SP analysis 'SP1'.
+    UserValue(0.001753) < MinRecommendValue(0.000017) OR UserValue > MaxRecommendValue(0.000511) for 'W' in `Gap7'
+
+Warning detected by hpeesofsim during SP analysis 'SP1'.
+    UserValue(0.000610) < MinRecommendValue(0.000017) OR UserValue > MaxRecommendValue(0.000511) for 'W' in `Gap6'
+
+Warning detected by hpeesofsim during SP analysis `SP1'.
+    The simulation temperature (25.0 C) is not the same as the IEEE standard
+    noise temperature (290 K or 16.85 C) in the noise analysis `SP1'.
+    If the simulation temperature is not equal to the IEEE standard temperature,
+    then the loss and the noise figure will not agree for a passive circuit.
+    The `Temp' parameter on the Options item can be set to 16.85 C to
+    eliminate this warning message.
+
+Warning detected by hpeesofsim during SP analysis `SP1'.
+    Data in the Touchstone file `/home/pablog/work/git/ADS/AmplificadorCSA/Amplificador_CSA_wrk/GALI-39+_S2P/GALI-39+___35mA___Plus25degC.S2P'
+    does not cover the requested value of `freq'.
+    Therefore, the required data was obtained by extrapolation.
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+Resource usage:
+    User time                 =     0.74 seconds.
+    System time               =     0.08 seconds.
+    Total CPU time            =     0.82 seconds.
+    Simulation stopwatch time =     0.39 seconds.
+    Total stopwatch time      =     0.79 seconds.
+
+    Physical memory used: 106 MBytes.
+    Incremental virtual memory (data only) used:  34.2 MBytes.
+

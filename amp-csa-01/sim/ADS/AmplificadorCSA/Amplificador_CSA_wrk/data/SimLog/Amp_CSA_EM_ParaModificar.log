@@ -1,0 +1,20 @@
+
+SP SP1[1] <Amplificador_CSA_lib:Amp_CSA_EM_ParaModificar:schematic>   freq=(1 GHz->6 GHz)
+Warning detected by hpeesofsim during SP analysis `SP1'.
+    COMPONENT `I__0.em_data':
+       Model data retrieved from <Amplificador_CSA_lib:Amp_CSA_Layout:emModel>
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Warning detected by hpeesofsim during circuit set up.
+    Evaluation failed for ` StabFact1=stab_fact(S)':  "StabFact1":
+      Function "stab_fact" : This function only accepts a 2x2 (sub)matrix
+
+Resource usage:
+    User time                 =     0.64 seconds.
+    System time               =     0.05 seconds.
+    Total CPU time            =     0.70 seconds.
+    Simulation stopwatch time =     0.24 seconds.
+    Total stopwatch time      =     0.65 seconds.
+
+    Physical memory used: 107 MBytes.
+    Incremental virtual memory (data only) used:  29.6 MBytes.
+

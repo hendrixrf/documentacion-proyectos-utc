@@ -1,0 +1,5 @@
+jobName=EmPpMsgs
+jobType=emprep
+designName=Amplificador_CSA_lib:Amp_CSA_Layout:layout
+ruleFilePath=
+addInfo="EM preprocessor messages displayed as DRC errors"

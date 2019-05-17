@@ -1,0 +1,26 @@
+
+SP SP1[1] <Amplificador_CSA_lib:Mediciones:schematic>   freq=(10 MHz->6 GHz)
+Warning detected by hpeesofsim during SP analysis `SP1'.
+    Data in the Touchstone file `/home/pablog/work/Mediciones VNA/2019-02-01 Mediciones Amp CSA/1.s2p'
+    does not cover the requested value of `freq'.
+    Therefore, the required data was obtained by extrapolation.
+Warning detected by hpeesofsim during SP analysis `SP1'.
+    Data in the Touchstone file `/home/pablog/work/Mediciones VNA/2019-02-01 Mediciones Amp CSA/2.s2p'
+    does not cover the requested value of `freq'.
+    Therefore, the required data was obtained by extrapolation.
+Warning detected by hpeesofsim during SP analysis `SP1'.
+    Data in the Touchstone file `/home/pablog/work/Mediciones VNA/2019-02-01 Mediciones Amp CSA/3.s2p'
+    does not cover the requested value of `freq'.
+    Therefore, the required data was obtained by extrapolation.
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+Resource usage:
+    User time                 =     0.52 seconds.
+    System time               =     0.07 seconds.
+    Total CPU time            =     0.59 seconds.
+    Simulation stopwatch time =     0.14 seconds.
+    Total stopwatch time      =     1.72 seconds.
+
+    Physical memory used: 101 MBytes.
+    Incremental virtual memory (data only) used:  30.8 MBytes.
+

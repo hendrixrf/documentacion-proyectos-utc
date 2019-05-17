@@ -1,0 +1,17 @@
+Warning detected by hpeesofsim in topology check during circuit set up.
+    Number of nodes with only one device attached (topology corrected): 1
+
+
+SP SP1[1] <Amplificador_CSA_lib:Bias_Tee_Discreta:schematic>   freq=(10 MHz->6 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+Resource usage:
+    User time                 =     0.54 seconds.
+    System time               =     0.04 seconds.
+    Total CPU time            =     0.58 seconds.
+    Simulation stopwatch time =     0.13 seconds.
+    Total stopwatch time      =     0.53 seconds.
+
+    Physical memory used: 104 MBytes.
+    Incremental virtual memory (data only) used:  27.4 MBytes.
+

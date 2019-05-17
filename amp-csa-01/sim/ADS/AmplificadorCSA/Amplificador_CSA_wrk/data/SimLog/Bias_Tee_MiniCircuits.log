@@ -1,0 +1,14 @@
+
+SP SP1[1] <Amplificador_CSA_lib:Bias_Tee_MiniCircuits:schematic>   freq=(10 MHz->6 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+Resource usage:
+    User time                 =     0.34 seconds.
+    System time               =     0.02 seconds.
+    Total CPU time            =     0.36 seconds.
+    Simulation stopwatch time =     0.06 seconds.
+    Total stopwatch time      =     0.32 seconds.
+
+    Physical memory used: 93 MBytes.
+    Incremental virtual memory (data only) used:  18.8 MBytes.
+

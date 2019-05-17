@@ -1,0 +1,4 @@
+INCLUDE $HOME/work/repoADS/LibsComunes/muratalib/murata_lib_ads2011later_16061e/lib.defs
+DEFINE Amplificador_CSA_lib Amplificador_CSA_lib
+ASSIGN Amplificador_CSA_lib libMode shared
+INCLUDE $HPEESOF_DIR/oalibs/ads.defs

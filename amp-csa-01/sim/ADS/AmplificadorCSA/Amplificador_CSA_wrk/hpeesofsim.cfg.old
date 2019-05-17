@@ -1,0 +1,7 @@
+DESIGN_KIT_MODEL_PATH=/home/pablog/work/repoADS/LibsComunes/muratalib/murata_lib_ads2011later_16061e/bin/linux_x86_64_GCC462
+EESOF_MODEL_PATH=.:../userCompiledModel/lib.$SIMARCH:..:../networks:$HOME/hpeesof/circuit/lib.$SIMARCH:$HPEESOF_DIR/custom/circuit/lib.$SIMARCH:$HPEESOF_DIR/circuit/lib.$SIMARCH:%DESIGN_KIT_MODEL_PATH:$ICCAP_MODEL_PATH:%ICCAP_MODEL_PATH:{%DESIGN_KIT_MODEL_PATH}
+DESIGN_KIT_VERILOGA_PATH=/home/pablog/work/repoADS/LibsComunes/muratalib/murata_lib_ads2011later_16061e/veriloga
+DESIGN_KIT_SIM_FILE_PATH=/home/pablog/work/repoADS/LibsComunes/muratalib/murata_lib_ads2011later_16061e/circuit/data;/home/pablog/work/repoADS/LibsComunes/muratalib/murata_lib_ads2011later_16061e/circuit/models
+SIM_FILE_PATH=$USER_SIM_FILE_PATH:%USER_SIM_FILE_PATH:$DE_SIM_FILE_PATH:%DE_SIM_FILE_PATH:.:..:../data:../networks:%DESIGN_KIT_SIM_FILE_PATH:$HPEESOF_DIR/adsptolemy/wtb:$HPEESOF_DIR/CustomEncoded/linlib/data:$HPEESOF_DIR/CustomEncoded/UWB_Channel/data:$HPEESOF_DIR/CustomEncoded/UWB_Receiver/data:$HPEESOF_DIR/CustomEncoded/UWB_Transmitter/data:{%DESIGN_KIT_SIM_FILE_PATH}
+DE_SIM_FILE_PATH=./data:/home/pablog/work/repoADS/LibsComunes/muratalib/murata_lib_ads2011later_16061e/circuit/data;/home/pablog/work/repoADS/LibsComunes/muratalib/murata_lib_ads2011later_16061e/circuit/models
+DKIT_ADSLIBCONFIG_PATH=/home/pablog/work/git/ADS/AmplificadorCSA/Amplificador_CSA_wrk

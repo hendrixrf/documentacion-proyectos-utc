@@ -1,0 +1,14 @@
+
+SP SP1[1] <Amplificador_CSA_lib:AtenuadorBalanceado:schematic>   freq=(10 MHz->4 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+Resource usage:
+    User time                 =     0.28 seconds.
+    System time               =     0.05 seconds.
+    Total CPU time            =     0.33 seconds.
+    Simulation stopwatch time =     0.05 seconds.
+    Total stopwatch time      =     0.29 seconds.
+
+    Physical memory used: 90.5 MBytes.
+    Incremental virtual memory (data only) used:  18 MBytes.
+

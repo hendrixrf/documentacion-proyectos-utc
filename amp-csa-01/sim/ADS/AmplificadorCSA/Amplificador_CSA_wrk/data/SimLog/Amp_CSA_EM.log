@@ -1,0 +1,21 @@
+
+SP SP1[1] <Amplificador_CSA_lib:Amp_CSA_EM:schematic>   freq=(10 MHz->8 GHz)
+Warning detected by hpeesofsim during SP analysis `SP1'.
+    COMPONENT `I__0.em_data':
+       Model data retrieved from <Amplificador_CSA_lib:Amp_CSA_Layout:emModel>
+Warning detected by hpeesofsim during SP analysis `SP1'.
+    Data in the Touchstone file `/home/pablog/work/git/ADS/AmplificadorCSA/Amplificador_CSA_wrk/GALI-39+_S2P/GALI-39+___35mA___Plus25degC.S2P'
+    does not cover the requested value of `freq'.
+    Therefore, the required data was obtained by extrapolation.
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+Resource usage:
+    User time                 =     0.66 seconds.
+    System time               =     0.04 seconds.
+    Total CPU time            =     0.70 seconds.
+    Simulation stopwatch time =     0.29 seconds.
+    Total stopwatch time      =     0.64 seconds.
+
+    Physical memory used: 107 MBytes.
+    Incremental virtual memory (data only) used:  34.6 MBytes.
+

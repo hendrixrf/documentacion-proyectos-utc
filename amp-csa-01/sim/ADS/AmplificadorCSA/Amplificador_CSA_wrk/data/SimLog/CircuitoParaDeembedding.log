@@ -1,0 +1,14 @@
+
+SP SP1[1] <Amplificador_CSA_lib:CircuitoParaDeembedding:schematic>   freq=(1 GHz->10 GHz)
+..........
+
+Resource usage:
+    User time                 =     0.31 seconds.
+    System time               =     0.02 seconds.
+    Total CPU time            =     0.33 seconds.
+    Simulation stopwatch time =     0.04 seconds.
+    Total stopwatch time      =     0.28 seconds.
+
+    Physical memory used: 92 MBytes.
+    Incremental virtual memory (data only) used:  18 MBytes.
+

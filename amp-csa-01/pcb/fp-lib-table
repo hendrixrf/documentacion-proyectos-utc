@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name AMP_CSA)(type KiCad)(uri "$(KIPRJMOD)/footprints/AMP_CSA.pretty")(options "")(descr ""))
+  (lib (name SMA-rfelectronics)(type KiCad)(uri "$(KIPRJMOD)/footprints/SMA-rfelectronics.pretty")(options "")(descr ""))
+  (lib (name VIAS)(type KiCad)(uri "$(KIPRJMOD)/footprints/VIAS.pretty")(options "")(descr ""))
+  (lib (name GALI-39+)(type KiCad)(uri "$(KIPRJMOD)/footprints/GALI-39+.pretty")(options "")(descr ""))
+  (lib (name OSHW-logo)(type Legacy)(uri "$(KIPRJMOD)/footprints/OSHW-logo.mod")(options "")(descr ""))
+)

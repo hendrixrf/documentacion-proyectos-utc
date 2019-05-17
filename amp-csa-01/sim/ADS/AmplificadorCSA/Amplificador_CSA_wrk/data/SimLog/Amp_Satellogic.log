@@ -1,0 +1,14 @@
+
+SP SP1[1] <Amplificador_CSA_lib:Amp_Satellogic:schematic>   freq=(1 GHz->10 GHz)
+..........
+
+Resource usage:
+    User time                 =     0.35 seconds.
+    System time               =     0.02 seconds.
+    Total CPU time            =     0.38 seconds.
+    Simulation stopwatch time =     0.07 seconds.
+    Total stopwatch time      =     0.47 seconds.
+
+    Physical memory used: 93 MBytes.
+    Incremental virtual memory (data only) used:  18.8 MBytes.
+

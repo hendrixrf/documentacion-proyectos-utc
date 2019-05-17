@@ -1,0 +1,18 @@
+
+SP SP1[1] <Amplificador_CSA_lib:Amp_CSA_Pelado:schematic>   freq=(10 MHz->10 GHz)
+Warning detected by hpeesofsim during SP analysis `SP1'.
+    Data in the Touchstone file `/home/pablog/work/git/ADS/AmplificadorCSA/Amplificador_CSA_wrk/GALI-39+_S2P/GALI-39+___35mA___Plus25degC.S2P'
+    does not cover the requested value of `freq'.
+    Therefore, the required data was obtained by extrapolation.
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+Resource usage:
+    User time                 =     0.29 seconds.
+    System time               =     0.04 seconds.
+    Total CPU time            =     0.33 seconds.
+    Simulation stopwatch time =     0.06 seconds.
+    Total stopwatch time      =     0.30 seconds.
+
+    Physical memory used: 92.9 MBytes.
+    Incremental virtual memory (data only) used:  18.3 MBytes.
+

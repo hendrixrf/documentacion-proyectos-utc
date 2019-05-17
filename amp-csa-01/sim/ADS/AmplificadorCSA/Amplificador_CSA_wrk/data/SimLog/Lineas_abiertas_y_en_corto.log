@@ -1,0 +1,1093 @@
+
+CT Sweep1[1] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>   ELEC_LINE=(0->359)
+
+SP Sweep1[1].SP1[1/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=0  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[2/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=1  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[3/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=2  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[4/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=3  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[5/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=4  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[6/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=5  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[7/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=6  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[8/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=7  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[9/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=8  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[10/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=9  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[11/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=10  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[12/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=11  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[13/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=12  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[14/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=13  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[15/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=14  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[16/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=15  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[17/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=16  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[18/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=17  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[19/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=18  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[20/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=19  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[21/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=20  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[22/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=21  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[23/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=22  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[24/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=23  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[25/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=24  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[26/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=25  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[27/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=26  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[28/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=27  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[29/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=28  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[30/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=29  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[31/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=30  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[32/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=31  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[33/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=32  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[34/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=33  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[35/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=34  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[36/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=35  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[37/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=36  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[38/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=37  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[39/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=38  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[40/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=39  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[41/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=40  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[42/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=41  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[43/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=42  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[44/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=43  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[45/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=44  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[46/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=45  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[47/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=46  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[48/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=47  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[49/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=48  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[50/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=49  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[51/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=50  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[52/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=51  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[53/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=52  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[54/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=53  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[55/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=54  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[56/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=55  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[57/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=56  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[58/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=57  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[59/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=58  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[60/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=59  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[61/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=60  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[62/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=61  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[63/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=62  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[64/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=63  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[65/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=64  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[66/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=65  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[67/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=66  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[68/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=67  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[69/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=68  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[70/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=69  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[71/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=70  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[72/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=71  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[73/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=72  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[74/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=73  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[75/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=74  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[76/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=75  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[77/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=76  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[78/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=77  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[79/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=78  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[80/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=79  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[81/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=80  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[82/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=81  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[83/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=82  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[84/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=83  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[85/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=84  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[86/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=85  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[87/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=86  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[88/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=87  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[89/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=88  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[90/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=89  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[91/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=90  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[92/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=91  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[93/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=92  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[94/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=93  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[95/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=94  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[96/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=95  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[97/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=96  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[98/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=97  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[99/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=98  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[100/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=99  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[101/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=100  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[102/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=101  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[103/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=102  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[104/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=103  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[105/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=104  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[106/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=105  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[107/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=106  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[108/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=107  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[109/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=108  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[110/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=109  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[111/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=110  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[112/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=111  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[113/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=112  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[114/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=113  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[115/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=114  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[116/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=115  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[117/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=116  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[118/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=117  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[119/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=118  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[120/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=119  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[121/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=120  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[122/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=121  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[123/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=122  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[124/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=123  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[125/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=124  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[126/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=125  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[127/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=126  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[128/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=127  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[129/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=128  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[130/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=129  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[131/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=130  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[132/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=131  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[133/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=132  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[134/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=133  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[135/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=134  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[136/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=135  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[137/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=136  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[138/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=137  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[139/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=138  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[140/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=139  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[141/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=140  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[142/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=141  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[143/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=142  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[144/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=143  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[145/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=144  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[146/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=145  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[147/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=146  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[148/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=147  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[149/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=148  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[150/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=149  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[151/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=150  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[152/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=151  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[153/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=152  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[154/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=153  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[155/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=154  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[156/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=155  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[157/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=156  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[158/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=157  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[159/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=158  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[160/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=159  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[161/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=160  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[162/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=161  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[163/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=162  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[164/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=163  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[165/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=164  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[166/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=165  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[167/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=166  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[168/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=167  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[169/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=168  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[170/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=169  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[171/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=170  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[172/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=171  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[173/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=172  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[174/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=173  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[175/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=174  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[176/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=175  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[177/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=176  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[178/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=177  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[179/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=178  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[180/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=179  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[181/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=180  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[182/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=181  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[183/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=182  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[184/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=183  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[185/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=184  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[186/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=185  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[187/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=186  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[188/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=187  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[189/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=188  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[190/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=189  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[191/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=190  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[192/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=191  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[193/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=192  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[194/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=193  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[195/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=194  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[196/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=195  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[197/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=196  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[198/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=197  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[199/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=198  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[200/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=199  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[201/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=200  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[202/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=201  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[203/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=202  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[204/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=203  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[205/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=204  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[206/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=205  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[207/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=206  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[208/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=207  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[209/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=208  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[210/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=209  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[211/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=210  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[212/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=211  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[213/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=212  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[214/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=213  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[215/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=214  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[216/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=215  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[217/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=216  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[218/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=217  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[219/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=218  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[220/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=219  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[221/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=220  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[222/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=221  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[223/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=222  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[224/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=223  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[225/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=224  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[226/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=225  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[227/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=226  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[228/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=227  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[229/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=228  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[230/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=229  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[231/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=230  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[232/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=231  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[233/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=232  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[234/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=233  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[235/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=234  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[236/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=235  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[237/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=236  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[238/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=237  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[239/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=238  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[240/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=239  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[241/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=240  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[242/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=241  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[243/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=242  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[244/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=243  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[245/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=244  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[246/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=245  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[247/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=246  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[248/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=247  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[249/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=248  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[250/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=249  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[251/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=250  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[252/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=251  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[253/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=252  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[254/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=253  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[255/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=254  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[256/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=255  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[257/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=256  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[258/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=257  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[259/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=258  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[260/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=259  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[261/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=260  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[262/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=261  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[263/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=262  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[264/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=263  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[265/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=264  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[266/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=265  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[267/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=266  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[268/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=267  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[269/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=268  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[270/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=269  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[271/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=270  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[272/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=271  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[273/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=272  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[274/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=273  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[275/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=274  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[276/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=275  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[277/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=276  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[278/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=277  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[279/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=278  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[280/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=279  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[281/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=280  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[282/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=281  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[283/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=282  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[284/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=283  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[285/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=284  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[286/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=285  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[287/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=286  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[288/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=287  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[289/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=288  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[290/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=289  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[291/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=290  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[292/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=291  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[293/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=292  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[294/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=293  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[295/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=294  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[296/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=295  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[297/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=296  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[298/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=297  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[299/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=298  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[300/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=299  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[301/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=300  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[302/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=301  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[303/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=302  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[304/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=303  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[305/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=304  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[306/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=305  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[307/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=306  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[308/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=307  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[309/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=308  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[310/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=309  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[311/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=310  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[312/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=311  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[313/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=312  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[314/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=313  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[315/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=314  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[316/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=315  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[317/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=316  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[318/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=317  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[319/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=318  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[320/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=319  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[321/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=320  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[322/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=321  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[323/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=322  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[324/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=323  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[325/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=324  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[326/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=325  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[327/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=326  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[328/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=327  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[329/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=328  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[330/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=329  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[331/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=330  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[332/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=331  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[333/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=332  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[334/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=333  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[335/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=334  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[336/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=335  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[337/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=336  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[338/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=337  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[339/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=338  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[340/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=339  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[341/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=340  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[342/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=341  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[343/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=342  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[344/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=343  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[345/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=344  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[346/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=345  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[347/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=346  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[348/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=347  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[349/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=348  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[350/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=349  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[351/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=350  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[352/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=351  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[353/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=352  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[354/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=353  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[355/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=354  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[356/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=355  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[357/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=356  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[358/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=357  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[359/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=358  freq=1 GHz
+.
+
+SP Sweep1[1].SP1[360/360] <Amplificador_CSA_lib:Lineas_abiertas_y_en_corto:schematic>  ELEC_LINE=359  freq=1 GHz
+.
+
+Resource usage:
+    User time                 =     0.35 seconds.
+    System time               =     0.03 seconds.
+    Total CPU time            =     0.38 seconds.
+    Simulation stopwatch time =     0.12 seconds.
+    Total stopwatch time      =     0.35 seconds.
+
+    Physical memory used: 96 MBytes.
+    Incremental virtual memory (data only) used:  22 MBytes.
+

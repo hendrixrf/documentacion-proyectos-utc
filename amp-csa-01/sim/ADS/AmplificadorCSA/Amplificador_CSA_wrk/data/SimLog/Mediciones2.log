@@ -1,0 +1,14 @@
+
+SP SP1[1] <Amplificador_CSA_lib:Mediciones2:schematic>   freq=(1 GHz->6 GHz)
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+Resource usage:
+    User time                 =     0.48 seconds.
+    System time               =     0.06 seconds.
+    Total CPU time            =     0.54 seconds.
+    Simulation stopwatch time =     0.09 seconds.
+    Total stopwatch time      =     0.57 seconds.
+
+    Physical memory used: 103 MBytes.
+    Incremental virtual memory (data only) used:  25.6 MBytes.
+

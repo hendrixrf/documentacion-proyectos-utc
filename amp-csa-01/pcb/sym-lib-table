@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name AMP_CSA-rescue)(type Legacy)(uri ${KIPRJMOD}/AMP_CSA-rescue.lib)(options "")(descr ""))
+  (lib (name amp_csa)(type Legacy)(uri ${KIPRJMOD}/lib/amp_csa.lib)(options "")(descr ""))
+  (lib (name sma-edge)(type Legacy)(uri /home/pablog/work/git/Bibliotecas/sma-edge.lib)(options "")(descr ""))
+)
